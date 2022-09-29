@@ -8,7 +8,7 @@
 </p>
 
 ## Status
-Finished: 2022-09-28. Grade: [![](https://raw.githubusercontent.com/phrxn/phrxn/master/42/grade/125_100.png)](https://github.com/phrxn/42/libft).
+Finished: 2022-09-28. Grade: [![](https://raw.githubusercontent.com/phrxn/phrxn/master/42/grade/125_100.png)](https://github.com/phrxn/42/tree/main/libft).
 
 ## Run and Usage
 ``make`` to compile mandatory functions and create libft.a.
