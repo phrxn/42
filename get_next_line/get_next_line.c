@@ -31,9 +31,7 @@ static int	create_module(t_module *mod, int fd)
 		return (1);
 	while (mod->l_start < mod->readed && mod->buf[mod->l_start] != '\n')
 		mod->l_start++;
-	if (!mod->readed)
-		mod->l_size = 0;
-	else if (mod->l_start < mod->readed)
+	if (mod->l_start < mod->readed)
 		mod->l_size = mod->l_start + 1;
 	else
 		mod->l_size = mod->l_start;
