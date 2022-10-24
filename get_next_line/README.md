@@ -14,9 +14,10 @@ Finished: 2022-10-07.
 
 Create a simple main:
 
-``
+```
 #include "get_next_line.h"
 #include <stdio.h>
+#include <stdlib.h>
 #include <fcntl.h>
 
 /*
@@ -47,7 +48,7 @@ int main(int argc, char *argv[])
     }   
     return 0;
 }
-``
+```
 
 
 ``gcc main.c get_next_line.c -DBUFFER_SIZE=<n>`` to compile. Where N is the buffer size > 0 && <= MAX READ SYSTEM CALL.
