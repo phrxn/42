@@ -19,6 +19,8 @@ Usage: ``./fdf <file fdf name>``. Where file fdf name is a map.
 
 ## Controls
 
+|Key / Mouse | Event|
+|---|---|
 |`Esc`| Close window |
 |`w` or `s`| Axis X rotation|
 |`q` or `c`| Axis Y rotation|
