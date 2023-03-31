@@ -10,7 +10,7 @@
 ## Status
 Finished: 2023-03-31.
 
-## Run and Usage
+## Run and Usage (Linux OS)
 ``make`` or ``make bonus`` to make full project.
 
 Usage: ``./fdf <file fdf name>``. Where file fdf name is a map. 
@@ -27,8 +27,8 @@ Usage: ``./fdf <file fdf name>``. Where file fdf name is a map.
 |`a` or `d`| Axis Z rotation|
 |`-`, `+` or `Mouse Scroll`| Zoom in and Zoom out|
 |`,`, `.`| Z axis increment or decrement|
-|`r` or `Mouse button 3`| Resize and center the map|
-|arrows `< ^ v >` or `Mouse button 1` (click, hold, drag and drop.)| Move the map|
+|`r` or `Mouse [middle button]` (click)| Resize and center the map|
+|arrows `< ^ v >` or `Mouse [left button]` (click, hold, drag and drop.)| Move the map|
 |`i` `g` `t`| Projections (Isometric, Sphere and Parallel.)|
 |`m`| When the map is below the menu you can remove the transparency from the menu|
 
