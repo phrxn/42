@@ -41,5 +41,7 @@ Usage: ``./fdf <file fdf name>``. Where file fdf name is a map.
   <img src="https://raw.githubusercontent.com/phrxn/phrxn/master/42/images/FdF/FdF4.png" />
   <img src="https://raw.githubusercontent.com/phrxn/phrxn/master/42/images/FdF/FdF5.png" />
   <img src="https://raw.githubusercontent.com/phrxn/phrxn/master/42/images/FdF/FdF6.png" />
+  <img src="https://raw.githubusercontent.com/phrxn/phrxn/master/42/images/FdF/FdF7.png" />
+  <img src="https://raw.githubusercontent.com/phrxn/phrxn/master/42/images/FdF/FdF8.png" />
 </p>
 
